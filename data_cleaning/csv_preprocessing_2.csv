@@ -1,0 +1,37 @@
+ID,Colleges,Branch,Min_Range
+E001,University of Visvesvaraya College of Engineering,AI Artificial Intelligence,160
+E001,University of Visvesvaraya College of Engineering,CE Civil,80
+E001,University of Visvesvaraya College of Engineering,CS Computers,150
+E001,University of Visvesvaraya College of Engineering,EC Electronics,130
+E001,University of Visvesvaraya College of Engineering,EE Electrical,100
+E001,University of Visvesvaraya College of Engineering,ME Mechanical,105
+E002,S K S J T Institute of Engineering.,CE Civil,80
+E002,S K S J T Institute of Engineering.,CS Computers,150
+E002,S K S J T Institute of Engineering.,EC Electronics,130
+E003,B M S College of Engineering,CE Civil,80
+E003,B M S College of Engineering,EC Electronics,130
+E003,B M S College of Engineering,EE Electrical,100
+E003,B M S College of Engineering,ME Mechanical,95
+E004,Dr. Ambedkar Institute Of Technology,CE Civil,100
+E004,Dr. Ambedkar Institute Of Technology,CS Computers,165
+E004,Dr. Ambedkar Institute Of Technology,EC Electronics,135
+E004,Dr. Ambedkar Institute Of Technology,EE Electrical,105
+E004,Dr. Ambedkar Institute Of Technology,ME Mechanical,110
+E005,R. V. College of Engineering,AI Artificial Intelligence,165
+E005,R. V. College of Engineering,CE Civil,100
+E005,R. V. College of Engineering,EC Electronics,135
+E005,R. V. College of Engineering,EE Electrical,115
+E005,R. V. College of Engineering,ME Mechanical,100
+E006,M S Ramaiah Institute of Technology,AI Artificial Intelligence,175
+E006,M S Ramaiah Institute of Technology,CE Civil,105
+E006,M S Ramaiah Institute of Technology,CS Computers,150
+E006,M S Ramaiah Institute of Technology,EC Electronics,120
+E006,M S Ramaiah Institute of Technology,EE Electrical,115
+E006,M S Ramaiah Institute of Technology,ME Mechanical,95
+E007,Dayananda Sagar College of Engineering,AI Artificial Intelligence,160
+E007,Dayananda Sagar College of Engineering,CE Civil,115
+E007,Dayananda Sagar College of Engineering,CS Computers,165
+E007,Dayananda Sagar College of Engineering,EC Electronics,117
+E007,Dayananda Sagar College of Engineering,EE Electrical,130
+E007,Dayananda Sagar College of Engineering,ME Mechanical,140
+E007,Dayananda Sagar College of Engineering,RI Robotics and AI,175
